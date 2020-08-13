@@ -16,11 +16,11 @@
 
 ​		原生的J2EE项目都有一个核心的web.xml配置文件，里面可以配置项目的首页、每一个servlet及配套的拦截器。Maven也一样，它的核心配置文件叫做pom.xml
 
-![image-20200628153448214](C:\Users\mylov\Desktop\笔记相关\pom.png)
+![image-20200628153448214](img/再谈HashMap(四)-负载因子/pom.png)
 
 ​		pom.xml表明了当前项目的名称、版本、所属组织等关键信息，而且还可以方便的引入外部依赖。
 
-![image-20200628155430880](C:\Users\mylov\Desktop\笔记相关\依赖.png)
+![image-20200628155430880](img/再谈HashMap(四)-负载因子/依赖.png)
 
 ​		在这里定义写好需要的依赖后，Maven会自动下载jar包到仓库里，并导入项目中。这也就省去了自己去搜寻下载jar包并导入的过程。
 

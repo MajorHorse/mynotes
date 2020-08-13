@@ -30,7 +30,7 @@
 
 ​		暂存区是工作区用来提交更改前可以暂存工作区的变化，也叫作index，一般存放在.git目录下的index文件中（.get/index）,也被称作索引
 
-![img](C:\Users\mylov\Desktop\笔记相关\Github工作区.png)
+![img](img/Github初识/Github工作区.png)
 
 # Git常用指令
 
