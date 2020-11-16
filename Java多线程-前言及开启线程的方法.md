@@ -4,7 +4,7 @@
 
 ### 二、Java中的多线程
 
-#### 1.多线程的开启--实现Runnable接口
+#### 1.多线程的开启--	实现Runnable接口
 
 ```java
 public class MultiThreadDemo {
