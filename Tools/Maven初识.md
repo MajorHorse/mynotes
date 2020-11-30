@@ -16,15 +16,15 @@
 
 ​		用Maven新建的web项目的目录结构如下
 
-![image-20200629165509492](img/Maven初识/Maven目录结构.png)
+![image-20200629165509492](/img/Maven初识/Maven目录结构.png)
 
 ​		Maven管理项目的核心是一个pom.xml文件
 
-![image-20200629165509492](img/Maven初识/pom.png)
+![image-20200629165509492](/img/Maven初识/pom.png)
 
 ​		而如何导入外部jar包，使用的则是<dependency>标签
 
-![image-20200629165509492](img/Maven初识/依赖.png)
+![image-20200629165509492](/img/Maven初识/依赖.png)
 
 # 小结
 
