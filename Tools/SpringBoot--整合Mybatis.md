@@ -6,7 +6,7 @@ SpringBoot框架的基础知识我在之前也断断续续的看过，但是当�
 
 直接选择用Spring Initializr新建项目，选择的依赖为SpringWeb、JDBC、Mybatis和MySQL Driver
 
-![image-20200811150140647](/img/SpringBoot--整合Mybatis/image-20200811150140647.png)
+![image-20200811150140647](../img/SpringBoot--整合Mybatis/image-20200811150140647.png)
 
 ### Step2 修改配置文件
 

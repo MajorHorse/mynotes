@@ -6,11 +6,11 @@
 
 第一步，新建项目时选择maven，不采用任何模板
 
-![image-20200706171536778](/img\maven-sb-step1.png)
+![image-20200706171536778](../img\maven-sb-step1.png)
 
 第二步，在项目的resource目录下新建若干子目录，供开发需要。SB中有一句话：约定大于配置。所以，我们就用项目默认的名称来命名
 
-![image-20200707145417211](/img\maven-sb-子目录.png)
+![image-20200707145417211](../img\maven-sb-子目录.png)
 
 ​	第三步，导入SB所需的各种依赖，在pom文件中写的是两个必备部分
 
@@ -79,7 +79,7 @@ public class HelloController {
 
 第五步，验证。在浏览器地址啦输入http://localhost:8080/hello，即可访问到页面
 
-![image-20200707153001319](/img/SpringBoot--使用Maven新建SB项目/maven-sb-test.png)
+![image-20200707153001319](../img/SpringBoot--使用Maven新建SB项目/maven-sb-test.png)
 
 # 小结
 
